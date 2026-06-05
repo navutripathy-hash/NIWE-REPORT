@@ -1,0 +1,12 @@
+year,phase,description,planned_ckt_km_cumulative,actual_ckt_km_cumulative,status
+2015,Phase1,GEC Phase 1 started,3200,0,Under construction
+2018,Phase1,GEC Phase 1 partial,3200,1500,Partial
+2020,Phase1,GEC Phase 1 complete,3200,3200,Completed
+2022,Phase2,GEC Phase 2 started,13950,3400,Under construction
+2024,Phase2,GEC Phase 2 ongoing,13950,6000,Ongoing
+2025,Phase2,GEC Phase 2 advancing,13950,9000,Ongoing
+2026,Phase2+3,Phase 2 nearing completion + Phase 3 start,30000,13000,Ongoing
+2027,CEA_plan,CEA requirement milestone,40000,20000,Planned
+2028,CEA_plan,CEA requirement milestone,50890,30000,Planned
+2029,CEA_plan,CEA requirement milestone,50890,42000,Planned
+2030,CEA_plan,CEA full requirement,50890,50890,Target
